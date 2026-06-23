@@ -1,2 +1,2 @@
 # ++i_v/s_i++
-Did you know? ++i is faster than i++ in C++
+In this repo I show ++i is slightly faster than i++ in C++
